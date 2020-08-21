@@ -1,5 +1,5 @@
 # Building-Database-Applications-in-PHP
 
-learning notes.
+All my learning material for PHP and Mysql are here
 
 view the course: https://www.coursera.org/learn/database-applications-php
